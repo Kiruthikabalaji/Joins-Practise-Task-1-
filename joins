@@ -1,0 +1,51 @@
+creating tables:
+ table 1:
+
+create table employees(
+  emp_id int,
+  name varchar(50),
+  dept_id int );
+  
+insert into employees values(1,'Alice',101),
+(2,'Bob',102),
+(3,'Charlie',103);
+
+table 2:
+
+create table departments(
+  dept_id int,dept_name varchar(50));
+
+insert into departments values (101,'HR'),(102,'IT'),(103,'Finance');
+
+JOINS :
+
+1) INNER JOIN:
+
+SELECT e.emp_id, e.name, d.dept_name
+FROM employees e
+INNER JOIN departments d ON e.dept_id = d.dept_id;
+
+2)LEFT JOIN:
+
+SELECT e.emp_id, e.name, d.dept_name
+FROM employees e
+LEFT JOIN departments d ON e.dept_id = d.dept_id;
+
+3)RIGHT JOIN:
+
+
+SELECT e.emp_id, e.name, d.dept_name
+FROM employees e
+RIGHT JOIN departments d ON e.dept_id = d.dept_id;
+
+4)FULL OUTER JOIN:
+
+SELECT e.emp_id, e.name, d.dept_name
+FROM employees e
+LEFT JOIN departments d ON e.dept_id = d.dept_id
+
+UNION
+
+SELECT e.emp_id, e.name, d.dept_name
+FROM employees e
+RIGHT JOIN departments d ON e.dept_id = d.dept_id;
