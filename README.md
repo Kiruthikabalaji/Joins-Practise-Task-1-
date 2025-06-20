@@ -40,3 +40,11 @@ OUTPUTS:
 
 ![Image](https://github.com/user-attachments/assets/155a760c-1821-4386-971e-a764fdea237f)
 
+![Image](https://github.com/user-attachments/assets/155a760c-1821-4386-971e-a764fdea237f)
+
+![Image](https://github.com/user-attachments/assets/b80d0c6f-c33d-4787-9f0e-9863ff2f55a1)
+
+![Image](https://github.com/user-attachments/assets/bc96ce17-7c95-41ea-9706-636e755bc604)
+
+![Image](https://github.com/user-attachments/assets/7f801ac7-9fe3-4990-989c-f4d284a7e6f3)
+
