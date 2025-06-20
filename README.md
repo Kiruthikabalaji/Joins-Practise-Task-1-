@@ -38,5 +38,5 @@ This task improved my practical skills in SQL and helped me understand the impor
 
 OUTPUTS:
 
-
+![Image](https://github.com/user-attachments/assets/155a760c-1821-4386-971e-a764fdea237f)
 
